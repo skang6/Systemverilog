@@ -23,3 +23,4 @@
 - 在浏览器登录github，在Settings界面点击左边的 SSH and GPG keys，然后复制  id_rsa.pub 文件的内容到SSH keys，点击Add SSH key即可。
 - 执行 ssh -T git@github.com，就能看到成功了。
   
+  ==在github上添加内容，然后跟新本地仓库==
